@@ -1,6 +1,7 @@
 {
   "name": "react-qrcode-background",
   "version": "0.1.0",
+  "author": "Yaser Alazm <yaser.azem@gmail.com>",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
@@ -8,8 +9,10 @@
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.4.1",
     "@types/node": "^16.11.26",
+    "@types/qrcode.react": "^1.0.2",
     "@types/react": "^17.0.40",
     "@types/react-dom": "^17.0.13",
+    "qrcode.react": "^2.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
