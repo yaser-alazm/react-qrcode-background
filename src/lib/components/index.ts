@@ -1,0 +1,1 @@
+export {QRBg} from './qr-bg'
